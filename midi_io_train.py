@@ -107,7 +107,6 @@ def save_midis(bars, file_path, tempo=80.0):
 #         if int(pr_clip.shape[0] % 4) != 0:
 #             pr_clip = np.delete(pr_clip, np.s_[-int(pr_clip.shape[0] % 4):], axis=0)
 #         pr_re = pr_clip.reshape(-1, 64, 24, 1)
-#         print("YARAK",pr_re.shape)
 #
 #         save_midis(pr_re, os.path.join(ROOT_PATH, 'SuperMarioMidi_train/cleaner_midi_gen', os.path.splitext(l[i])[0] +
 #                                        '.mid'))
