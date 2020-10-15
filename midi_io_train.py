@@ -188,14 +188,3 @@ songListSeperated = np.load('songListSeperated.npy',allow_pickle=True)
 # s4_song10 = s4[188:208]
 # s4_song11 = s4[208:228]
 
-
-# np.save("yarak1",s4_song1)
-# np.save("yarak2",s4_song2)
-# np.save("yarak3",s4_song3)
-
-# songList = []
-# songList.append(
-#
-#
-#
-#
