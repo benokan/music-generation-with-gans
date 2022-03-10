@@ -8,10 +8,12 @@ Some results:
 
 ![Good result](/results/wgangp-prp.mp3)
 
-<audio controls>
-  <source src="/results/wgangp-prp.mp3" type="audio/mpeg">
-  Your browser does not support the audio tag.
-</audio>
+<html>
+  <audio controls>
+    <source src="/results/wgangp-prp.mp3" type="audio/mpeg">
+    Your browser does not support the audio tag.
+  </audio>
+</html>
 
 ![Better result](/results/wgan-prp.mp3)
 
