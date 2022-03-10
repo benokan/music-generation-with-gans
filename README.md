@@ -6,7 +6,7 @@ Elective in AI course project. An implementation of the [MidiNet](https://arxiv.
 
 Some results:
 
-![Good result](/results/results_wgangp-prp.mp3)
+![Good result](results/results_wgangp-prp.mp3)
 
-![Better result](/results/results_wgan-prp.mp3)
+![Better result](results/results_wgan-prp.mp3)
 
